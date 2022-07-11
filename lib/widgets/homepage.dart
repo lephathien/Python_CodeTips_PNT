@@ -329,7 +329,7 @@ class _HomePageState extends State<HomePage> {
                       SizedBox(
                         width: 20.0,
                       ),
-                      Text("Ứng dụng Python Code Tips")
+                      Text("Python Code Tips")
                     ],
                   ),
                 ),
