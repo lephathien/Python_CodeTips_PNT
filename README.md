@@ -20,7 +20,7 @@
     <td><p align="left">
   <img src="https://github.com/lephathien/Python_CodeTips_PNT/blob/b3b0c4a5447b673d47dbd499e2b86de104821f05/Picture5.png" width="350" title="hover text">
 </p></td>
-    <td>>p align="left">
+    <td>><p align="left">
   <img src="https://github.com/lephathien/Python_CodeTips_PNT/blob/b3b0c4a5447b673d47dbd499e2b86de104821f05/Picture6.png" width="350" title="hover text">
 </p></td>
   </tr>
@@ -31,7 +31,7 @@
     <td><p align="left">
   <img src="https://github.com/lephathien/Python_CodeTips_PNT/blob/b3b0c4a5447b673d47dbd499e2b86de104821f05/Picture8.png" width="350" title="hover text">
 </p></td>
-    <td>>p align="left">
+    <td>><p align="left">
   <img src="https://github.com/lephathien/Python_CodeTips_PNT/blob/b3b0c4a5447b673d47dbd499e2b86de104821f05/Picture9.png" width="350" title="hover text">
 </p></td>
   </tr>
